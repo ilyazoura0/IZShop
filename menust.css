@@ -145,7 +145,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 40%;
     transition-duration: .5s;
     animation: imga 3s;
     animation-iteration-count: infinite;
